@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: d816b86ff13eb41a28ddc016ce67d989
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box01 1
+    100004: Box02
+    100006: Box03
+    100008: Box03 1
+    100010: Box04
+    100012: Box04 1
+    100014: Box05
+    100016: Box05 1
+    100018: Box06
+    100020: Box06 1
+    100022: Box07
+    100024: Box07 1
+    100026: Box08
+    100028: Box08 1
+    100030: Box17
+    100032: Box17 1
+    100034: Box21
+    100036: Box21 1
+    100038: Box22
+    100040: Box22 1
+    100042: Box23
+    100044: Box23 1
+    100046: Box24
+    100048: Box24 1
+    100050: Box25
+    100052: Box25 1
+    100054: Box26
+    100056: Box26 1
+    100058: Box27
+    100060: Box27 1
+    100062: Box28
+    100064: Box28 1
+    100066: Box29
+    100068: Box29 1
+    100070: Box30
+    100072: Box30 1
+    100074: Box31
+    100076: Box31 1
+    100078: Box32
+    100080: Box32 1
+    100082: Box33
+    100084: Box33 1
+    100086: Box34
+    100088: Box34 1
+    100090: Box35
+    100092: Box35 1
+    100094: Box36
+    100096: Box36 1
+    100098: Box37
+    100100: Box37 1
+    100102: Box38
+    100104: Box38 1
+    100106: Box39
+    100108: Box39 1
+    100110: Box40
+    100112: Box40 1
+    100114: Box41
+    100116: Box41 1
+    100118: Box42
+    100120: Box42 1
+    100122: Box43
+    100124: Box44
+    100126: Box45
+    100128: Box46
+    100130: Box47
+    100132: Box48
+    100134: Box49
+    100136: Box50
+    100138: Box51
+    100140: Box52
+    100142: Box53
+    100144: Box54
+    100146: Box55
+    100148: Box56
+    100150: Box57
+    100152: Box58
+    100154: Box59
+    100156: Box60
+    100158: Box61
+    100160: Box62
+    100162: Box63
+    100164: Box64
+    100166: Box65
+    100168: Box66
+    100170: Box67
+    100172: Box68
+    100174: Box69
+    100176: Box70
+    100178: Camera001
+    100180: Camera001.Target
+    100182: Cylinder01
+    100184: Cylinder01 1
+    100186: Cylinder02
+    100188: Cylinder02 1
+    100190: Cylinder03
+    100192: Cylinder03 1
+    100194: Cylinder04
+    100196: Cylinder05
+    100198: Cylinder06
+    100200: Group01
+    100202: Group01 1
+    100204: Group06
+    100206: Group06 1
+    100208: Group07
+    100210: Group08
+    100212: Group09
+    100214: Group10
+    100216: Group11
+    100218: Group12
+    100220: Group14
+    100222: Group15
+    100224: Group16
+    100226: Hedra01
+    100228: Hedra01 1
+    100230: Hedra02
+    100232: Hedra02 1
+    100234: Hedra03
+    100236: Hedra04
+    100238: Hedra05
+    100240: //RootNode
+    100242: Line01
+    100244: Line01 1
+    100246: NGon01
+    100248: NGon01 1
+    100250: Object01
+    100252: Object01 1
+    100254: Object02
+    100256: Object02 1
+    100258: Object03
+    100260: Object03 1
+    100262: Object04
+    100264: Object04 1
+    100266: Object05
+    100268: Object06
+    100270: Object07
+    100272: Particle View 01
+    100274: Particle View 01 1
+    100276: Particle View 01 2
+    100278: Particle View 01 3
+    400000: Box01
+    400002: Box01 1
+    400004: Box02
+    400006: Box03
+    400008: Box03 1
+    400010: Box04
+    400012: Box04 1
+    400014: Box05
+    400016: Box05 1
+    400018: Box06
+    400020: Box06 1
+    400022: Box07
+    400024: Box07 1
+    400026: Box08
+    400028: Box08 1
+    400030: Box17
+    400032: Box17 1
+    400034: Box21
+    400036: Box21 1
+    400038: Box22
+    400040: Box22 1
+    400042: Box23
+    400044: Box23 1
+    400046: Box24
+    400048: Box24 1
+    400050: Box25
+    400052: Box25 1
+    400054: Box26
+    400056: Box26 1
+    400058: Box27
+    400060: Box27 1
+    400062: Box28
+    400064: Box28 1
+    400066: Box29
+    400068: Box29 1
+    400070: Box30
+    400072: Box30 1
+    400074: Box31
+    400076: Box31 1
+    400078: Box32
+    400080: Box32 1
+    400082: Box33
+    400084: Box33 1
+    400086: Box34
+    400088: Box34 1
+    400090: Box35
+    400092: Box35 1
+    400094: Box36
+    400096: Box36 1
+    400098: Box37
+    400100: Box37 1
+    400102: Box38
+    400104: Box38 1
+    400106: Box39
+    400108: Box39 1
+    400110: Box40
+    400112: Box40 1
+    400114: Box41
+    400116: Box41 1
+    400118: Box42
+    400120: Box42 1
+    400122: Box43
+    400124: Box44
+    400126: Box45
+    400128: Box46
+    400130: Box47
+    400132: Box48
+    400134: Box49
+    400136: Box50
+    400138: Box51
+    400140: Box52
+    400142: Box53
+    400144: Box54
+    400146: Box55
+    400148: Box56
+    400150: Box57
+    400152: Box58
+    400154: Box59
+    400156: Box60
+    400158: Box61
+    400160: Box62
+    400162: Box63
+    400164: Box64
+    400166: Box65
+    400168: Box66
+    400170: Box67
+    400172: Box68
+    400174: Box69
+    400176: Box70
+    400178: Camera001
+    400180: Camera001.Target
+    400182: Cylinder01
+    400184: Cylinder01 1
+    400186: Cylinder02
+    400188: Cylinder02 1
+    400190: Cylinder03
+    400192: Cylinder03 1
+    400194: Cylinder04
+    400196: Cylinder05
+    400198: Cylinder06
+    400200: Group01
+    400202: Group01 1
+    400204: Group06
+    400206: Group06 1
+    400208: Group07
+    400210: Group08
+    400212: Group09
+    400214: Group10
+    400216: Group11
+    400218: Group12
+    400220: Group14
+    400222: Group15
+    400224: Group16
+    400226: Hedra01
+    400228: Hedra01 1
+    400230: Hedra02
+    400232: Hedra02 1
+    400234: Hedra03
+    400236: Hedra04
+    400238: Hedra05
+    400240: //RootNode
+    400242: Line01
+    400244: Line01 1
+    400246: NGon01
+    400248: NGon01 1
+    400250: Object01
+    400252: Object01 1
+    400254: Object02
+    400256: Object02 1
+    400258: Object03
+    400260: Object03 1
+    400262: Object04
+    400264: Object04 1
+    400266: Object05
+    400268: Object06
+    400270: Object07
+    400272: Particle View 01
+    400274: Particle View 01 1
+    400276: Particle View 01 2
+    400278: Particle View 01 3
+    2000000: Camera001
+    2100000: 19 - Default
+    2100002: eee
+    2100004: 19 - Default555
+    2100006: 3
+    2100008: 2
+    2100010: 22 - Default
+    2100012: 33
+    2100014: o
+    2100016: 'Material #4'
+    2100018: 4
+    2300000: Box01
+    2300002: Box01 1
+    2300004: Box02
+    2300006: Box03
+    2300008: Box03 1
+    2300010: Box04
+    2300012: Box04 1
+    2300014: Box05
+    2300016: Box05 1
+    2300018: Box06
+    2300020: Box06 1
+    2300022: Box07
+    2300024: Box07 1
+    2300026: Box08
+    2300028: Box08 1
+    2300030: Box17
+    2300032: Box17 1
+    2300034: Box21
+    2300036: Box21 1
+    2300038: Box22
+    2300040: Box22 1
+    2300042: Box23
+    2300044: Box23 1
+    2300046: Box24
+    2300048: Box24 1
+    2300050: Box25
+    2300052: Box25 1
+    2300054: Box26
+    2300056: Box26 1
+    2300058: Box27
+    2300060: Box27 1
+    2300062: Box28
+    2300064: Box28 1
+    2300066: Box29
+    2300068: Box29 1
+    2300070: Box30
+    2300072: Box30 1
+    2300074: Box31
+    2300076: Box31 1
+    2300078: Box32
+    2300080: Box32 1
+    2300082: Box33
+    2300084: Box33 1
+    2300086: Box34
+    2300088: Box34 1
+    2300090: Box35
+    2300092: Box35 1
+    2300094: Box36
+    2300096: Box36 1
+    2300098: Box37
+    2300100: Box37 1
+    2300102: Box38
+    2300104: Box38 1
+    2300106: Box39
+    2300108: Box39 1
+    2300110: Box40
+    2300112: Box40 1
+    2300114: Box41
+    2300116: Box41 1
+    2300118: Box42
+    2300120: Box42 1
+    2300122: Box43
+    2300124: Box44
+    2300126: Box45
+    2300128: Box46
+    2300130: Box47
+    2300132: Box48
+    2300134: Box49
+    2300136: Box50
+    2300138: Box51
+    2300140: Box52
+    2300142: Box53
+    2300144: Box54
+    2300146: Box55
+    2300148: Box56
+    2300150: Box57
+    2300152: Box58
+    2300154: Box59
+    2300156: Box60
+    2300158: Box61
+    2300160: Box62
+    2300162: Box63
+    2300164: Box64
+    2300166: Box65
+    2300168: Box66
+    2300170: Box67
+    2300172: Box68
+    2300174: Box69
+    2300176: Box70
+    2300178: Cylinder01
+    2300180: Cylinder01 1
+    2300182: Cylinder02
+    2300184: Cylinder02 1
+    2300186: Cylinder03
+    2300188: Cylinder03 1
+    2300190: Cylinder04
+    2300192: Cylinder05
+    2300194: Cylinder06
+    2300196: Hedra01
+    2300198: Hedra01 1
+    2300200: Hedra02
+    2300202: Hedra02 1
+    2300204: Hedra03
+    2300206: Hedra04
+    2300208: Hedra05
+    2300210: NGon01
+    2300212: NGon01 1
+    2300214: Object01
+    2300216: Object01 1
+    2300218: Object02
+    2300220: Object02 1
+    2300222: Object03
+    2300224: Object03 1
+    2300226: Object04
+    2300228: Object04 1
+    2300230: Object05
+    2300232: Object06
+    2300234: Object07
+    3300000: Box01
+    3300002: Box01 1
+    3300004: Box02
+    3300006: Box03
+    3300008: Box03 1
+    3300010: Box04
+    3300012: Box04 1
+    3300014: Box05
+    3300016: Box05 1
+    3300018: Box06
+    3300020: Box06 1
+    3300022: Box07
+    3300024: Box07 1
+    3300026: Box08
+    3300028: Box08 1
+    3300030: Box17
+    3300032: Box17 1
+    3300034: Box21
+    3300036: Box21 1
+    3300038: Box22
+    3300040: Box22 1
+    3300042: Box23
+    3300044: Box23 1
+    3300046: Box24
+    3300048: Box24 1
+    3300050: Box25
+    3300052: Box25 1
+    3300054: Box26
+    3300056: Box26 1
+    3300058: Box27
+    3300060: Box27 1
+    3300062: Box28
+    3300064: Box28 1
+    3300066: Box29
+    3300068: Box29 1
+    3300070: Box30
+    3300072: Box30 1
+    3300074: Box31
+    3300076: Box31 1
+    3300078: Box32
+    3300080: Box32 1
+    3300082: Box33
+    3300084: Box33 1
+    3300086: Box34
+    3300088: Box34 1
+    3300090: Box35
+    3300092: Box35 1
+    3300094: Box36
+    3300096: Box36 1
+    3300098: Box37
+    3300100: Box37 1
+    3300102: Box38
+    3300104: Box38 1
+    3300106: Box39
+    3300108: Box39 1
+    3300110: Box40
+    3300112: Box40 1
+    3300114: Box41
+    3300116: Box41 1
+    3300118: Box42
+    3300120: Box42 1
+    3300122: Box43
+    3300124: Box44
+    3300126: Box45
+    3300128: Box46
+    3300130: Box47
+    3300132: Box48
+    3300134: Box49
+    3300136: Box50
+    3300138: Box51
+    3300140: Box52
+    3300142: Box53
+    3300144: Box54
+    3300146: Box55
+    3300148: Box56
+    3300150: Box57
+    3300152: Box58
+    3300154: Box59
+    3300156: Box60
+    3300158: Box61
+    3300160: Box62
+    3300162: Box63
+    3300164: Box64
+    3300166: Box65
+    3300168: Box66
+    3300170: Box67
+    3300172: Box68
+    3300174: Box69
+    3300176: Box70
+    3300178: Cylinder01
+    3300180: Cylinder01 1
+    3300182: Cylinder02
+    3300184: Cylinder02 1
+    3300186: Cylinder03
+    3300188: Cylinder03 1
+    3300190: Cylinder04
+    3300192: Cylinder05
+    3300194: Cylinder06
+    3300196: Hedra01
+    3300198: Hedra01 1
+    3300200: Hedra02
+    3300202: Hedra02 1
+    3300204: Hedra03
+    3300206: Hedra04
+    3300208: Hedra05
+    3300210: NGon01
+    3300212: NGon01 1
+    3300214: Object01
+    3300216: Object01 1
+    3300218: Object02
+    3300220: Object02 1
+    3300222: Object03
+    3300224: Object03 1
+    3300226: Object04
+    3300228: Object04 1
+    3300230: Object05
+    3300232: Object06
+    3300234: Object07
+    4300000: Box17
+    4300002: Box39
+    4300004: Box01
+    4300006: Box03
+    4300008: Box04
+    4300010: Box05
+    4300012: Box08
+    4300014: NGon01
+    4300016: Cylinder01
+    4300018: Box21
+    4300020: Box06
+    4300022: Box22
+    4300024: Box23
+    4300026: Box40
+    4300028: Box41
+    4300030: Box42
+    4300032: Object03
+    4300034: Object04
+    4300036: Box43
+    4300038: Box44
+    4300040: Box45
+    4300042: Box46
+    4300044: Box29
+    4300046: Box30
+    4300048: Object01
+    4300050: Box27
+    4300052: Box28
+    4300054: Box25
+    4300056: Hedra01
+    4300058: Cylinder02
+    4300060: Box26
+    4300062: Box24
+    4300064: Box07
+    4300066: Box32
+    4300068: Box33
+    4300070: Object02
+    4300072: Box34
+    4300074: Box31
+    4300076: Box36
+    4300078: Hedra02
+    4300080: Cylinder03
+    4300082: Box35
+    4300084: Box37
+    4300086: Box38
+    4300088: Cylinder04
+    4300090: Box47
+    4300092: Box48
+    4300094: Object05
+    4300096: Box49
+    4300098: Box50
+    4300100: Box51
+    4300102: Hedra03
+    4300104: Box52
+    4300106: Box53
+    4300108: Box54
+    4300110: Hedra04
+    4300112: Box55
+    4300114: Box56
+    4300116: Object06
+    4300118: Box57
+    4300120: Box58
+    4300122: Box59
+    4300124: Cylinder05
+    4300126: Box60
+    4300128: Box61
+    4300130: Box62
+    4300132: Cylinder06
+    4300134: Box63
+    4300136: Box64
+    4300138: Box65
+    4300140: Box66
+    4300142: Object07
+    4300144: Hedra05
+    4300146: Box67
+    4300148: Box69
+    4300150: Box70
+    4300152: Box68
+    4300154: Box27
+    4300156: Object01
+    4300158: Box30
+    4300160: Box29
+    4300162: Box28
+    4300164: Box34
+    4300166: Object02
+    4300168: Box33
+    4300170: Box32
+    4300172: Box31
+    4300174: Box37
+    4300176: Box38
+    4300178: Cylinder03
+    4300180: Hedra02
+    4300182: Box36
+    4300184: Box35
+    4300186: Box24
+    4300188: Box07
+    4300190: Cylinder02
+    4300192: Hedra01
+    4300194: Box25
+    4300196: Box26
+    4300198: Object04
+    4300200: Object03
+    4300202: Box42
+    4300204: Box41
+    4300206: Box40
+    4300208: Box23
+    4300210: Box22
+    4300212: Box06
+    4300214: Box21
+    4300216: Cylinder01
+    4300218: NGon01
+    4300220: Box08
+    4300222: Box05
+    4300224: Box04
+    4300226: Box03
+    4300228: Box01
+    4300230: Box02
+    4300232: Box39
+    4300234: Box17
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

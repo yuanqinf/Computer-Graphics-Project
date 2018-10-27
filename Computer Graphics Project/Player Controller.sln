@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player Controller", "Assembly-CSharp.csproj", "{5F6D21D3-0081-F59E-83B8-B3818AB2544D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player Controller", "Assembly-CSharp-Editor.csproj", "{A5B09147-8F75-8006-3EAE-23EA2B35F65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6D21D3-0081-F59E-83B8-B3818AB2544D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6D21D3-0081-F59E-83B8-B3818AB2544D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6D21D3-0081-F59E-83B8-B3818AB2544D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6D21D3-0081-F59E-83B8-B3818AB2544D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B09147-8F75-8006-3EAE-23EA2B35F65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B09147-8F75-8006-3EAE-23EA2B35F65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B09147-8F75-8006-3EAE-23EA2B35F65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B09147-8F75-8006-3EAE-23EA2B35F65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
